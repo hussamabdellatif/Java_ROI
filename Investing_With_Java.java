@@ -41,7 +41,7 @@ public class Investing {
 
 
     /**
-     * 5 points
+     * 
      *
      * Return the cost of a single trade (stock price times number of shares).
      * If the trader is selling the shares this number should be negative.
@@ -168,7 +168,7 @@ public class Investing {
 
 
     /**
-     * 10 points
+     * 
      *
      * Compute the ROI of a given trader with a given starting cash.
      * Compute ROI as a fraction, as opposed to a percentage.
@@ -251,7 +251,7 @@ public class Investing {
 
 
     /**
-     * 10 points
+     * 
      *
      * Compute the ROI of the firm.
      *
